@@ -4,3 +4,5 @@
 - Extract it
 - Open pp.exe
 - Enjoy Http Valid Proxy
+
+![Terminal Image](https://cdn.discordapp.com/attachments/974668555771592724/1005164112453566534/unknown.png)
