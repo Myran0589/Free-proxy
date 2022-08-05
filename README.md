@@ -1,6 +1,6 @@
 # Free-proxy
 
-- Dawnload this source code\n
-- Extract it\n
-- Open pp.exe\n
+- Dawnload this source code
+- Extract it
+- Open pp.exe
 - Enjoy Http Valid Proxy
